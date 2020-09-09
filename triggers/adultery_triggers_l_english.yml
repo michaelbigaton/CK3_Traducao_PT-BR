@@ -1,4 +1,5 @@
 ﻿l_english:
- TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] is not a [bastard|E] of your [house|E]"
- HOUSE_HEAD_DOES_NOT_APPROVE:0 "Your [house_head|E], [CHARACTER.GetShortUIName], does not approve this legitimization"
- MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] is married, and would never admit to indiscretions"
+ TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] não é um [bastard|E] da sua [house|E]"
+ HOUSE_HEAD_DOES_NOT_APPROVE:0 "Seu(ua) [house_head|E], [CHARACTER.GetShortUIName], não aprova esta legitimação"
+ MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] é casada, e nunca admitiria indiscrições"
+###MichaelBigaton 09/09/2020###
