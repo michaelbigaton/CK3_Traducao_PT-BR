@@ -109,4 +109,4 @@
  WARNING_I_AM_ALREADY_AT_WAR_WITH_TARGET:1 "@warning_icon!#X Voce ja esta em guerra com [faction_target.GetTitledFirstName]#!"
  WARNING_I_AM_AT_WAR_WITH_FACTION_LEADER:1 "@warning_icon!#X Você está em guerra com [faction_invite_from.GetTitledFirstName]#!"
  WARNING_INVITE_CANNOT_JOIN:0 "@warning_icon!#X [faction_invite_from.GetTitledFirstName] não pode entrar na facção#!"
-###MichaelBigaton 10/09/2020###
+###MichaelBigaton 10/09/2020### 
